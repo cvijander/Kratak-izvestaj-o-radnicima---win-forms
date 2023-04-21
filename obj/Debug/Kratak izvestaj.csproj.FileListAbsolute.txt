@@ -1,0 +1,12 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\bin\Debug\baza.mdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\bin\Debug\Kratak izvestaj.exe.config
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\bin\Debug\Kratak izvestaj.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\bin\Debug\Kratak izvestaj.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak izvestaj.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak izvestaj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak_izvestaj.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak_izvestaj.Properties.Resources.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak izvestaj.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak izvestaj.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak izvestaj.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kratak izvestaj\Kratak izvestaj\obj\Debug\Kratak izvestaj.pdb
